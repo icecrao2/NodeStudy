@@ -1,0 +1,25 @@
+{
+  "name": "nodestudy-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StudyCrypto.js",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "node-fetch": "^2.2.0",
+    "upgrade": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icecrao2/NodeStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icecrao2/NodeStudy/issues"
+  },
+  "homepage": "https://github.com/icecrao2/NodeStudy#readme"
+}
